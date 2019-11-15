@@ -11,5 +11,5 @@
 public class Test {
     //coucou
     
-    //System.out.println("Hello wolrd");
+    //System.out.println("Hello world");
 }
